@@ -21,7 +21,7 @@ padding-left: 21%;
 </head>
 
 
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<!-- 은이 수정함. -->
 <header>
 	<nav class="navbar navbar-inverse" style="margin-bottom: 0">
 	  <div class="container-fluid">
