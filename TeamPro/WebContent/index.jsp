@@ -19,7 +19,7 @@ padding-left: 21%;
 
 
 </head>
-
+<!-- 태현이가 수정했댄다 얘들아~~~ -->
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <header>
