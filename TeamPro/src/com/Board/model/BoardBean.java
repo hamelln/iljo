@@ -4,6 +4,7 @@ import java.sql.Date;
 
 public class BoardBean {
 	 private int board_no;
+	 //테스트
 	 private String board_name;
 	 private String board_title;
 	 private String board_cont;
