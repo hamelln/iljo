@@ -19,7 +19,6 @@ padding-left: 21%;
 
 
 </head>
-<!-- 현이 수정함. -->
 
 
 <header>
