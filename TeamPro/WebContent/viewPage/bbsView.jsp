@@ -15,16 +15,16 @@
 	<nav class="navbar navbar-inverse" style="margin-bottom: 0">
 	  <div class="container-fluid">
 	    <div class="navbar-header">
-	      <a class="navbar-brand" href="index.do">메인이미지</a>
+	      <a class="navbar-brand" href="index.do">stahe</a>
 	    </div>
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	   		<ul class="nav navbar-nav navbar-left" style="padding-left: 30%;">
-		        <li><a href="index.do">메인</a></li>
-		        <li><a href="#">장바구니로</a></li>
+		        <li><a href="index.do">whar</a></li>
+		        <li><a href="#">dlas</a></li>
 		        <li><a href="bbsView.jsp">Q&A</a></li>
 	   		</ul>
 	      	<ul class="nav navbar-nav navbar-right">
-		        <li><a href="signUpView.do">회원가입</a></li>
+		        <li><a href="signUpView.do">회원ss가입</a></li>
 		       	<li><a href="loginView.jsp">로그인</a></li>
 	      	</ul>
 	    </div>

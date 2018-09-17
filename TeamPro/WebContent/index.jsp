@@ -26,7 +26,7 @@ padding-left: 21%;
 	  <div class="container-fluid">
 	  
 	    <div class="navbar-header">
-	      <a class="navbar-brand" href="index.action">메인이미지ss</a>
+	      <a class="navbar-brand" href="index.action">메인이미지</a>
 	    </div>
 	
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -36,7 +36,7 @@ padding-left: 21%;
 		        <li><a href="bbsView.action">Q&A</a></li>
 	   		</ul>
 	      	<ul class="nav navbar-nav navbar-right">
-		        <li><a href="signUpView.action">회원가입</a></li>
+		        <li><a href="signUpView.action">회원가ss입</a></li>
 		       	<li><a href="loginView.action">로그인</a></li>
 	      	</ul>
 	    </div>
