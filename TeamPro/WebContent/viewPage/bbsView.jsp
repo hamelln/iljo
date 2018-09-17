@@ -38,7 +38,7 @@
 
 <ul class="list-group">
   <li class="list-group-item">
-    <span class="badge">답변완료</span>
+    <span class="badge">답변ss완료</span>
     <a href="#">배송이 늦어요</a>
   </li>
 </ul>
