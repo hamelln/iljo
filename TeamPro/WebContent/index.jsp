@@ -31,7 +31,7 @@ padding-left: 21%;
 	
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	   		<ul class="nav navbar-nav navbar-left" style="padding-left: 30%;">
-		        <li><a href="index.action">메인</a></li>
+		        <li><a href="index.action">메ss인</a></li>
 		        <li><a href="#">장바구니로</a></li>
 		        <li><a href="bbsView.action">Q&A</a></li>
 	   		</ul>
