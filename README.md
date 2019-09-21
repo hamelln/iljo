@@ -1,6 +1,5 @@
 # iljo
-iljo
-
+1조 
 ![screenshot_20171221-151714](https://drive.google.com//uc?export=view&id=0B3OrA6ex2wbgUlNJbm1tek9fZ3c)
 ![screenshot_20171221-151714](https://drive.google.com//uc?export=view&id=0B3OrA6ex2wbgSVZDRnkzcjl0NWM)
 ![screenshot_20171221-151714](https://drive.google.com//uc?export=view&id=0B3OrA6ex2wbgSFVsRWZmdVh6OXM)
